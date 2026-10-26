@@ -1,7 +1,7 @@
 # Diplomatura-ciencia-de-
 # Predicción de compra de boletos turísticos
 
-Proyecto grupal (Grupo N°13) de la Diplomatura en Ciencia de Datos.
+Proyecto de la Diplomatura en Ciencia de Datos.
 
 ## Objetivo
 Predecir la probabilidad de que un cliente compre un boleto turístico el próximo mes, para dirigir las campañas de marketing solo a los clientes con más chances de compra y reducir costos.
